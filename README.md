@@ -389,7 +389,7 @@
 <body class="not-loaded">
   <div id="falling-flower-container"></div>
   <div id="particle-container"></div>
-  <h1 class="love-title">Estás Flores son para ti mi Mi Amor BRIYITH❤️</h1>
+  <h1 class="love-title">Estás Flores son para ti mi Mi Amor BRIYIDTH❤️</h1>
   <div class="flowers">
     <!-- El contenido HTML de las flores no ha cambiado -->
     <div class="flower flower--1">
